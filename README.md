@@ -77,7 +77,7 @@ same directory.
 
 This project repository is organized into the following sub-folders:
 
-* __data__: binary working folders of preprocessed data
+* __data__: binary working folders of preprocessed data (MIMIC-III data must be added according to instructions above)
 * __demo_data__: binary working folders of preprocessed data from publicly available demo data used for model development
 * __data_sampling__: data subset sampling source code
 * __data_cleaning__: data preprocessing source code
